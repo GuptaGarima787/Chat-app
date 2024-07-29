@@ -11,7 +11,7 @@
     "mern",
     "chat-app"
   ],
-  "author": "Sonali",
+  "author": "Garima",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
